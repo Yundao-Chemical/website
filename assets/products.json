@@ -1,0 +1,534 @@
+[
+  {
+    "id": 1,
+    "category": "herbicides",
+    "zh": "草甘膦",
+    "en": "Glyphosate",
+    "source": "草甘膦 Glyphosate"
+  },
+  {
+    "id": 2,
+    "category": "insecticides",
+    "zh": "啶虫脒",
+    "en": "Acetamiprid",
+    "source": "啶虫脒 Acetamiprid"
+  },
+  {
+    "id": 3,
+    "category": "fungicides",
+    "zh": "戊唑醇",
+    "en": "Tebuconazole",
+    "source": "戊唑醇 Tebuconazole"
+  },
+  {
+    "id": 4,
+    "category": "nutrition",
+    "zh": "赤霉素",
+    "en": "Gibberellic Acid",
+    "source": "赤霉素 Gibberellic Acid"
+  },
+  {
+    "id": 5,
+    "category": "herbicides",
+    "zh": "敌草隆",
+    "en": "Diuron",
+    "source": "敌草隆 Diuron"
+  },
+  {
+    "id": 6,
+    "category": "insecticides",
+    "zh": "吡虫啉",
+    "en": "Imidacloprid",
+    "source": "吡虫啉 Imidacloprid"
+  },
+  {
+    "id": 7,
+    "category": "fungicides",
+    "zh": "丙环唑",
+    "en": "Propiconzole",
+    "source": "丙环唑 Propiconzole"
+  },
+  {
+    "id": 8,
+    "category": "nutrition",
+    "zh": "乙烯利",
+    "en": "Ethephon",
+    "source": "乙烯利 Ethephon"
+  },
+  {
+    "id": 9,
+    "category": "herbicides",
+    "zh": "敌草快",
+    "en": "Diquat",
+    "source": "敌草快 Diquat"
+  },
+  {
+    "id": 10,
+    "category": "insecticides",
+    "zh": "阿维菌素",
+    "en": "Abamectin",
+    "source": "阿维菌素 Abamectin"
+  },
+  {
+    "id": 11,
+    "category": "fungicides",
+    "zh": "苯醚甲环唑",
+    "en": "Difenoconazole",
+    "source": "苯醚甲环唑 Difenoconazole"
+  },
+  {
+    "id": 12,
+    "category": "nutrition",
+    "zh": "螯合锌",
+    "en": "Zinc Chelated",
+    "source": "螯合锌 Zinc Chelated"
+  },
+  {
+    "id": 13,
+    "category": "herbicides",
+    "zh": "烯草酮",
+    "en": "Clethodim",
+    "source": "烯草酮 Clethodim"
+  },
+  {
+    "id": 14,
+    "category": "insecticides",
+    "zh": "马拉硫磷",
+    "en": "Malathion",
+    "source": "马拉硫磷 Malathion"
+  },
+  {
+    "id": 15,
+    "category": "fungicides",
+    "zh": "甲基硫菌灵",
+    "en": "Thiophanate-methyl",
+    "source": "甲基硫菌灵 Thiophanate-methyl"
+  },
+  {
+    "id": 16,
+    "category": "nutrition",
+    "zh": "螯合铁",
+    "en": "Iron Chelated",
+    "source": "螯合铁 Iron Chelated"
+  },
+  {
+    "id": 17,
+    "category": "herbicides",
+    "zh": "乙氧氟草醚",
+    "en": "Oxyfluorfen",
+    "source": "乙氧氟草醚 Oxyfluorfen"
+  },
+  {
+    "id": 18,
+    "category": "insecticides",
+    "zh": "毒死蜱",
+    "en": "Chlorpyrifos",
+    "source": "毒死蜱 Chlorpyrifos"
+  },
+  {
+    "id": 19,
+    "category": "fungicides",
+    "zh": "多菌灵",
+    "en": "Carbendazim",
+    "source": "多菌灵 Carbendazim"
+  },
+  {
+    "id": 20,
+    "category": "nutrition",
+    "zh": "一水硫酸锌",
+    "en": "Zinc sulfate monohydrate",
+    "source": "一水硫酸锌 Zinc sulfate monohydrate"
+  },
+  {
+    "id": 21,
+    "category": "herbicides",
+    "zh": "丙草胺",
+    "en": "Pretilachlor",
+    "source": "丙草胺 Pretilachlor"
+  },
+  {
+    "id": 22,
+    "category": "insecticides",
+    "zh": "噻虫胺",
+    "en": "Clothianidin",
+    "source": "噻虫胺 Clothianidin"
+  },
+  {
+    "id": 23,
+    "category": "fungicides",
+    "zh": "代森锰锌",
+    "en": "Mancozeb",
+    "source": "代森锰锌 Mancozeb"
+  },
+  {
+    "id": 24,
+    "category": "nutrition",
+    "zh": "七水硫酸镁",
+    "en": "Magnesium sulfate heptahydrate",
+    "source": "七水硫酸镁 Magnesium sulfate heptahydrate"
+  },
+  {
+    "id": 25,
+    "category": "herbicides",
+    "zh": "硝磺草酮",
+    "en": "Mesotrione",
+    "source": "硝磺草酮 Mesotrione"
+  },
+  {
+    "id": 26,
+    "category": "insecticides",
+    "zh": "噻虫嗪",
+    "en": "Thiamethoxam",
+    "source": "噻虫嗪 Thiamethoxam"
+  },
+  {
+    "id": 27,
+    "category": "fungicides",
+    "zh": "福美双",
+    "en": "Thiram",
+    "source": "福美双 Thiram"
+  },
+  {
+    "id": 28,
+    "category": "nutrition",
+    "zh": "螯合酸",
+    "en": "EDTA ACID",
+    "source": "螯合酸 EDTA ACID"
+  },
+  {
+    "id": 29,
+    "category": "herbicides",
+    "zh": "精喹禾灵",
+    "en": "Quizalofop-p-ethyl",
+    "source": "精喹禾灵 Quizalofop-p-ethyl"
+  },
+  {
+    "id": 30,
+    "category": "insecticides",
+    "zh": "联苯菊酯",
+    "en": "Bifenthrin",
+    "source": "联苯菊酯 Bifenthrin"
+  },
+  {
+    "id": 31,
+    "category": "fungicides",
+    "zh": "嘧菌酯",
+    "en": "Azoxystrobin",
+    "source": "嘧菌酯 Azoxystrobin"
+  },
+  {
+    "id": 32,
+    "category": "nutrition",
+    "zh": "硫酸钾",
+    "en": "SOP",
+    "source": "硫酸钾 SOP"
+  },
+  {
+    "id": 33,
+    "category": "herbicides",
+    "zh": "莠去津",
+    "en": "Atrazine",
+    "source": "莠去津 Atrazine"
+  },
+  {
+    "id": 34,
+    "category": "insecticides",
+    "zh": "甲维盐",
+    "en": "Emamectin Benzoate",
+    "source": "甲维盐 Emamectin Benzoate"
+  },
+  {
+    "id": 35,
+    "category": "fungicides",
+    "zh": "百菌清",
+    "en": "Chlorothalonil",
+    "source": "百菌清 Chlorothalonil"
+  },
+  {
+    "id": 36,
+    "category": "nutrition",
+    "zh": "氨基酸肥",
+    "en": "Amino Acid",
+    "source": "氨基酸肥 Amino Acid"
+  },
+  {
+    "id": 37,
+    "category": "herbicides",
+    "zh": "",
+    "en": "2,4D",
+    "source": "2,4D"
+  },
+  {
+    "id": 38,
+    "category": "insecticides",
+    "zh": "氯氰菊酯",
+    "en": "Cypermethrin",
+    "source": "氯氰菊酯 Cypermethrin"
+  },
+  {
+    "id": 39,
+    "category": "fungicides",
+    "zh": "春雷霉素",
+    "en": "Chunleimeisu",
+    "source": "春雷霉素 Chunleimeisu"
+  },
+  {
+    "id": 40,
+    "category": "nutrition",
+    "zh": "海藻提取液",
+    "en": "Seaweed Extract",
+    "source": "海藻提取液 Seaweed Extract"
+  },
+  {
+    "id": 41,
+    "category": "herbicides",
+    "zh": "二甲戊乐灵",
+    "en": "Pendimethaline",
+    "source": "二甲戊乐灵 Pendimethaline"
+  },
+  {
+    "id": 42,
+    "category": "insecticides",
+    "zh": "溴氰菊酯",
+    "en": "Deltamethrin",
+    "source": "溴氰菊酯 Deltamethrin"
+  },
+  {
+    "id": 43,
+    "category": "fungicides",
+    "zh": "唑菌胺酯",
+    "en": "Pyraclostrobin",
+    "source": "唑菌胺酯 Pyraclostrobin"
+  },
+  {
+    "id": 44,
+    "category": "nutrition",
+    "zh": "腐殖酸",
+    "en": "Humic Acid",
+    "source": "腐殖酸 Humic Acid"
+  },
+  {
+    "id": 45,
+    "category": "herbicides",
+    "zh": "草铵膦",
+    "en": "Glufosinate-ammonium",
+    "source": "草铵膦 Glufosinate-ammonium"
+  },
+  {
+    "id": 46,
+    "category": "insecticides",
+    "zh": "虱螨脲",
+    "en": "Lufenuron",
+    "source": "虱螨脲 Lufenuron"
+  },
+  {
+    "id": 47,
+    "category": "fungicides",
+    "zh": "烯酰吗啉",
+    "en": "Dimethomorph",
+    "source": "烯酰吗啉 Dimethomorph"
+  },
+  {
+    "id": 48,
+    "category": "nutrition",
+    "zh": "黄腐酸",
+    "en": "Fulvic Acid",
+    "source": "黄腐酸 Fulvic Acid"
+  },
+  {
+    "id": 49,
+    "category": "herbicides",
+    "zh": "吡嘧磺隆",
+    "en": "Pyrazosulfuron",
+    "source": "吡嘧磺隆 Pyrazosulfuron"
+  },
+  {
+    "id": 50,
+    "category": "insecticides",
+    "zh": "杀虫单",
+    "en": "Monosultap",
+    "source": "杀虫单 Monosultap"
+  },
+  {
+    "id": 51,
+    "category": "fungicides",
+    "zh": "啶酰菌胺",
+    "en": "Boscalid",
+    "source": "啶酰菌胺 Boscalid"
+  },
+  {
+    "id": 52,
+    "category": "nutrition",
+    "zh": "钾肥",
+    "en": "Potassium Humate (KOH)",
+    "source": "钾肥 Potassium Humate (KOH)"
+  },
+  {
+    "id": 53,
+    "category": "herbicides",
+    "zh": "丁草胺",
+    "en": "Butachlor",
+    "source": "丁草胺 Butachlor"
+  },
+  {
+    "id": 54,
+    "category": "insecticides",
+    "zh": "杀螟丹",
+    "en": "Cartap",
+    "source": "杀螟丹 Cartap"
+  },
+  {
+    "id": 55,
+    "category": "fungicides",
+    "zh": "春日霉素",
+    "en": "Kasugamycin",
+    "source": "春日霉素 Kasugamycin"
+  },
+  {
+    "id": 56,
+    "category": "nutrition",
+    "zh": "磷酸氢二钾",
+    "en": "Monopotassium Phosphate",
+    "source": "磷酸氢二钾 Monopotassium Phosphate"
+  },
+  {
+    "id": 57,
+    "category": "herbicides",
+    "zh": "精异丙甲草胺",
+    "en": "S-metolachlor",
+    "source": "精异丙甲草胺 S-metolachlor"
+  },
+  {
+    "id": 58,
+    "category": "insecticides",
+    "zh": "",
+    "en": "CTPR",
+    "source": "CTPR"
+  },
+  {
+    "id": 59,
+    "category": "fungicides",
+    "zh": "氧氯化铜",
+    "en": "Copper Oxychloride",
+    "source": "氧氯化铜 Copper Oxychloride"
+  },
+  {
+    "id": 60,
+    "category": "nutrition",
+    "zh": "磷酸尿素",
+    "en": "Urea Phosphate",
+    "source": "磷酸尿素 Urea Phosphate"
+  },
+  {
+    "id": 61,
+    "category": "herbicides",
+    "zh": "双草醚",
+    "en": "Bispyribac sodium",
+    "source": "双草醚 Bispyribac sodium"
+  },
+  {
+    "id": 62,
+    "category": "insecticides",
+    "zh": "吡蚜酮",
+    "en": "Pymetrozine",
+    "source": "吡蚜酮 Pymetrozine"
+  },
+  {
+    "id": 63,
+    "category": "fungicides",
+    "zh": "三唑酮",
+    "en": "Triadimefon",
+    "source": "三唑酮 Triadimefon"
+  },
+  {
+    "id": 64,
+    "category": "nutrition",
+    "zh": "磷酸",
+    "en": "Phosphoric Acid",
+    "source": "磷酸 Phosphoric Acid"
+  },
+  {
+    "id": 65,
+    "category": "herbicides",
+    "zh": "乙草胺",
+    "en": "Acetochlor",
+    "source": "乙草胺 Acetochlor"
+  },
+  {
+    "id": 66,
+    "category": "insecticides",
+    "zh": "功夫",
+    "en": "Lambda-cyhalothrin",
+    "source": "功夫 Lambda-cyhalothrin"
+  },
+  {
+    "id": 67,
+    "category": "fungicides",
+    "zh": "喹啉铜",
+    "en": "Oxine Copper",
+    "source": "喹啉铜 Oxine Copper"
+  },
+  {
+    "id": 68,
+    "category": "nutrition",
+    "zh": "硼",
+    "en": "Boron",
+    "source": "硼 Boron"
+  },
+  {
+    "id": 69,
+    "category": "herbicides",
+    "zh": "苯磺隆",
+    "en": "Bensulfuron",
+    "source": "苯磺隆 Bensulfuron"
+  },
+  {
+    "id": 70,
+    "category": "insecticides",
+    "zh": "呋虫胺",
+    "en": "Dinotefuran",
+    "source": "呋虫胺 Dinotefuran"
+  },
+  {
+    "id": 71,
+    "category": "nutrition",
+    "zh": "钙",
+    "en": "Calcium",
+    "source": "钙 Calcium"
+  },
+  {
+    "id": 72,
+    "category": "insecticides",
+    "zh": "溴虫腈",
+    "en": "Chlorfenapyr",
+    "source": "溴虫腈 Chlorfenapyr"
+  },
+  {
+    "id": 73,
+    "category": "nutrition",
+    "zh": "",
+    "en": "MAP",
+    "source": "MAP"
+  },
+  {
+    "id": 74,
+    "category": "insecticides",
+    "zh": "氟啶虫酰胺",
+    "en": "Flonicamid",
+    "source": "氟啶虫酰胺 Flonicamid"
+  },
+  {
+    "id": 75,
+    "category": "insecticides",
+    "zh": "茚虫威",
+    "en": "Indoxcarb",
+    "source": "茚虫威 Indoxcarb"
+  },
+  {
+    "id": 76,
+    "category": "insecticides",
+    "zh": "氟虫腈",
+    "en": "Fipronil",
+    "source": "氟虫腈 Fipronil"
+  }
+]
